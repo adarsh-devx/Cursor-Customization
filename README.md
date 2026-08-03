@@ -85,3 +85,4 @@ To test the website, follow these steps:
 This project is licensed under the **MIT License** 📄. This means that you are free to use, modify, and distribute the code as you see fit, as long as you include the original copyright and license notice in your distribution.
 
 By using this code, you agree to the terms of the MIT License. If you have any questions or concerns, please don't hesitate to contact the author.
+
